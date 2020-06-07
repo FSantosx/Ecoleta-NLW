@@ -1,27 +1,11 @@
 # Ecoleta
 > Projeto desenvolvido na semana Next Level Week da Rocketseat com foco no desenvolvimento web fullstack
 
-[![NPM Version][npm-image]][npm-url]
+[![NPM Version][npm-image]][npm-downloads]
 
 One to two paragraph statement about your product and what it does.
 
-![](public/assets/ecoleta.png)
-
-
-## Usage example
-
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
-
-_For more examples and usage, please refer to the [Wiki][wiki]._
-
-
-## Meta
-
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
-
-Distributed under the XYZ license. See ``LICENSE`` for more information.
-
-[https://github.com/yourname/github-link](https://github.com/dbader/)
+![](./public/assets/ecoleta.png)
 
 ## Contribuindo
 

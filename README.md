@@ -5,7 +5,7 @@
 [![Download Stats][npm-downloads]][npm-url]
 
 
-![](../public/assets/ecoleta.png)
+![](public/assets/ecoleta.png)
 
 ## Contribuindo
 

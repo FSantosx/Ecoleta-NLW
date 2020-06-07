@@ -4,8 +4,7 @@
 [![NPM Version][npm-image]][npm-url]
 [![Download Stats][npm-downloads]][npm-url]
 
-
-![](public/assets/ecoleta.png)
+![ecoleta](https://user-images.githubusercontent.com/16101647/83975028-be20cb80-a8c7-11ea-9994-eb9c82868f21.PNG)
 
 ## Contribuindo
 

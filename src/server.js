@@ -1,22 +1,32 @@
+// template engine
+let nunjucks = require("nunjucks");
 let express = require("express");
+
 let server = express();
 
 // configurar pasta publica
 server.use(express.static("public"));
 
+nunjucks.configure("src/views", {
+  express: server,
+  // desabilita o cache durante o desenvolvimento
+  noCache: true,
+});
+
+
 // configurar as rotas para as paginas
 // req: requisicao
 // res: resposta
 server.get("/", ( req, res ) => {
-  res.sendFile(__dirname + "/views/index.html");  
+  return res.render("index.html");  
 });
 
 server.get("/create-point", ( req, res ) => {
-  res.sendFile(__dirname + "/views/create-point.html");  
+  return res.render("create-point.html");  
 });
 
 server.get("/search-results", ( req, res ) => {
-  res.sendFile(__dirname + "/views/search-results.html");
+  return res.render("search-results.html");
 });
 
 // habilitando o servidor

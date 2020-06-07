@@ -1,11 +1,11 @@
 # Ecoleta
 > Projeto desenvolvido na semana Next Level Week da Rocketseat com foco no desenvolvimento web fullstack
 
-[![NPM Version][npm-image]][npm-downloads]
+[![NPM Version][npm-image]][npm-url]
+[![Download Stats][npm-downloads]][npm-url]
 
-One to two paragraph statement about your product and what it does.
 
-![](./public/assets/ecoleta.png)
+![](../public/assets/ecoleta.png)
 
 ## Contribuindo
 
